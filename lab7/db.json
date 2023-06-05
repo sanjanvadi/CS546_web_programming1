@@ -1,0 +1,52 @@
+//Owners
+{
+    "_id": "7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310",
+    "hashedPassword":"$2a$08$XdvNkfdNIL8F8xsuIUeSbNOFgK0M0iV5HOskfVn7.PWncShU.O",
+    "firstName": "John",
+    "lastName": "Doe",
+    "Email": "JDoe@gmail.com",
+    "Contact" : "+11234567890",
+    "Gender": "M",
+    "City": "Hoboken",
+    "State": "NJ",
+    "Age": "25",
+    "properties":["7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310","7b696a2-d0f2-4g8g-h67d-7a1d4b6b6710"]
+}
+
+//Students
+
+{
+    "_id":"7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310",
+    "hashedPassword":"$2a$08$XdvNkfdNIL8F8xsuIUeSbNOFgK0M0iV5HOskfVn7.PWncShU.O",
+    "firstName": "John",
+    "lastName": "Doe",
+    "Email": "JDoe@gmail.com",
+    "Contact" : "+11234567890",
+    "Gender": "M",
+    "City": "Hoboken",
+    "State": "NJ",
+    "Age": "25",
+    "favourites":["7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310","7b696a2-d0f2-4g8g-h67d-7a1d4b6b6710"]
+}
+
+//Properties
+
+{
+    "_id":"7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310",
+    "images":["image1","image2","image3"],
+    "address":"123 Jackson st, Hoboken, NJ, 07030",
+    "description":"property description",
+    "laundry":"In-Unit",
+    "date listed":"11/01/2022",
+    "rent":"$5000",
+    "listed by":"owner name",
+    "emailID":"owner email",
+    "area":"1200sqft",
+    "bed":3,
+    "bath":2,
+    "comments":[{
+        "_id": "7b7997a2-c0d2-4f8c-b27a-6a1d4b5b6310",
+        "name": "John Doe",
+        "comment": ""
+        }]
+}

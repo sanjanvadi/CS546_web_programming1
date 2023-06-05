@@ -1,0 +1,55 @@
+/*
+You will style your page using at least 10 CSS selectors for general CSS styling. You will place the CSS in its own file. You must style the is-green class to make text have a color of #00E676 and is-red class to make text have a color of #FF3D00.
+*/
+body{
+    background-color: cornflowerblue;
+}
+h1 {
+    color: whitesmoke;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+ }
+ .footer{
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+ }
+ .footerInfo{
+    color: whitesmoke;
+    text-shadow: 2px 2px 5px whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.is-green{
+    color: #00E676;
+    list-style: circle;
+    font-size:x-large;
+}
+.is-red{
+    color: #FF3D00;
+    list-style: circle;
+    font-size:x-large;
+}
+.is-error{
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+}
+#formLabel{
+    color: whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:x-large;
+ }
+#text_input{
+    width: 30%;
+    padding: 8px 10px;
+    margin: 2px 0;
+    box-sizing: border-box;
+}
+#button{
+    background-color: grey;
+    color: whitesmoke;
+    margin: 2px 225px;
+    width: 30%;
+    cursor: pointer;
+}

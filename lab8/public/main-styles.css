@@ -1,0 +1,74 @@
+/*This file should have CSS rulesets */
+body {
+    background-color: lightblue;
+  }
+  .container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 500px;
+    height: 200px;
+  }
+.div1{
+    background-color: aquamarine;
+}
+.div2{
+    align-content: center;
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.welcome{
+    font-style: italic;
+    text-decoration: underline;
+}
+h1 {
+   color: black;
+   font-weight: bolder;
+}
+h2{
+    color: cornsilk;
+    font-weight: bold;
+}
+p {
+    font-size: 20px;
+  }
+.btn{
+    background-color: grey;
+    color: black;
+}
+#find{
+    color: blue;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#searchPersonName{
+    border-style: inset;
+}
+.error{
+    color: red;
+    font-weight: bold;
+}
+.not-found{
+    color:hotpink;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+.another-search{
+    color: blue;
+}
+li{
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+dt{
+    color: coral;
+    font-weight: bold;
+}
+dd{
+    color: red;
+    font-weight: bolder;
+}

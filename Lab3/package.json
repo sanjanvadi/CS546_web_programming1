@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "lab3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sanjan Vadi 20015847",
+  "license": "ISC",
+  "description": ""
+}
